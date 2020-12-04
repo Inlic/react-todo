@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React Todos Project
+
+This is a simple application that I created to improve my skills working with the React.js front-end framework.  This project connects to the JSONPlaceholder api to test basic CRUD methods in a simple Todo list application.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
